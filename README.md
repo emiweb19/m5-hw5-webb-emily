@@ -40,3 +40,13 @@ Your site should be deployed to `<your github username>.github.io/<your reposito
 ## Submission
 
 Please submit both a link to your repository and a link to the live site. Also please include any comments on stumbling blocks or difficulties encountered while completing the assignment.
+
+## Accessibility Audit Notes and Changes
+Change the color of .nav a to white to increase contrast with the background.
+Change the color of body text to black to increase contrast.
+Change the color of footer text to white to increase contrast.
+Remove black phone icon since it has low contrast and doesn't work well with a screen reader.
+Add <label> to each form control.
+Add a black background to h1 to increase contrast.
+Change About Me to h2 to avoid skipping a heading level. Increase the size to improve site hierarchy. 
+Add site regions.
