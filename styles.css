@@ -39,13 +39,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(245, 245, 144);
+  color: lightpink;
   text-align: center;
 }
 
 .hero h1 {
   font-size: 48px;
   margin: 0;
+  background-color: #000;
+  padding: 20px;
 }
 
 .content {
